@@ -20,4 +20,40 @@
 # **SemanaTec**
 
 | Syntax | Description |
+| ---------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
+
+# 2. Tipo De Letra
+
+**Bold**
+*Italic*
+
+>Block
+
+
+>Hola
+
+
+>Adios
+>
+
+# 3. Lista Enumerada
+
+1. Tacos
+2. Hamburgesas
+3. Pasta
+4. Pizza
+5. Tortas
+6. Burrtios
+7. Hot Dogs
+8. Chilaquiles
+
+# 4. Lista Con Vinetas
+
+- Carls Jr
+- Burger King
+- Mc Donlads
+
+
 
