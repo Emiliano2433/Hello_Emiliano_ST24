@@ -8,7 +8,7 @@
 
 # Tigres
 
-! [Monterrey] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FMonterrey&psig=AOvVaw2oKzx4vfn6PUxFC_w-kgA0&ust=1711034388180000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICAlviRg4UDFQAAAAAdAAAAABAE)
+! [Monterrey] (https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DelValleCity.jpg/450px-DelValleCity.jpg)
 
 # 🧟‍♂️
 # 🦓
@@ -93,7 +93,7 @@ end_fill()
 
   # 8. Imagenes
 
-  ![Monterrey] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcabify.com%2Fmx%2Fblog%2Fcomo-moverse-en-monterrey&psig=AOvVaw3qMRFGVbnFkBIyNIgWSRRV&ust=1711036293562000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDExYWZg4UDFQAAAAAdAAAAABAE)
+  ![Monterrey] (https://cabify.com/_blogs-assets/images/inside/main_monterrey.png)
 
 # 9. Tabla
 
