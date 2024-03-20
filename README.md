@@ -55,5 +55,57 @@
 - Burger King
 - Mc Donlads
 
+# 5. Codigo
+
+```python
+from turtle import *
+
+from freegames import vector
+
+def line(start, end):
+  """Draw line from start to end."""
+  up()
+  goto(start.x, start.y)
+  down()
+  goto(end.x, end.y)
+
+def square(start, end):
+  """Draw square from start to end."""
+  up()
+  goto(start.x, start.y)
+  down()
+  begin_fill()
+
+for count in range(4):
+  forward(end.x - start.x)
+  left(90)
+
+end_fill()
+```
+
+# 6. regla
+---
+
+# 7. Link
+
+- [freegames] (https://grantjenks.com/docs/freegames/)
+- [Markdown] (https://markdownguide.org/cheat-sheet/)
+
+  # 8. Imagenes
+
+  ![Monterrey] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcabify.com%2Fmx%2Fblog%2Fcomo-moverse-en-monterrey&psig=AOvVaw3qMRFGVbnFkBIyNIgWSRRV&ust=1711036293562000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDExYWZg4UDFQAAAAAdAAAAABAE)
+
+# 9. Tabla
+
+| Syntax | Description |
+| ---------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
+
+# 10. Lista de equipo
+
+- [X] Emiliano Aparicio
+
+
 
 
